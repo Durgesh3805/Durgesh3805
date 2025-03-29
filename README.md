@@ -1,37 +1,44 @@
-<h1 align="center">Hi 👋, I'm Durgesh A P</h1>
-<h3 align="center">🚀 Software Engineer | Full-Stack Developer | AI & IoT Innovator</h3>
+> Want to know what I'm currently working on?  
+> Checkout [@Durgesh's Projects](https://github.com/Durgesh3805)
 
-<p align="center">
-  <a href="https://linkedin.com/in/durgeshap"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Durgesh3805"><img src="https://img.shields.io/github/followers/Durgesh3805?label=Follow&style=social" alt="GitHub"></a>
-</p>
+> 🚀 *Currently building [CareerTech](https://github.com/Inno-Yatra/CareerTech-Platform) – an AI-powered job platform for smarter career growth!*  
+> 💡 *Researching AI & IoT for heart disease prediction.*  
 
 ---
 
-### 🚀 **About Me**
-- 🔥 Building **CareerTech** – AI-powered job platform for smarter career growth
-- 🔬 Researching: **IoT-based heart disease prediction tool**
-- 💻 Currently working on **Full-stack development with Django & Next.js**
-- 🌱 Learning **AI/ML, Distributed Systems, and Cloud Architecture**
-- ✨ Open to collaborating on **innovative tech projects**
+[<img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api?username=Durgesh3805&show_icons=true&theme=radical">](#)
+[<img align="right" width="390" alt="🦑" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgesh3805&theme=radical">](#)
+[<img align="right" width="390" height="80" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh3805&layout=compact&theme=radical">](#)
 
 ---
 
-### 💻 **Tech Stack**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+### 💻 **Tech Stack & Skills**
+- **Languages:** Python, JavaScript, C, SQL  
+- **Web Development:** Next.js, Django, Tailwind CSS, PostgreSQL  
+- **AI/ML:** Scikit-Learn, TensorFlow, NLP, IoT Analytics  
+- **Tools:** Git, Docker, Selenium, Scrapy  
 
 ---
 
 ### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durgesh3805&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh3805&layout=compact&theme=radical" alt="Top Languages">
-</p>
+[<img align="left" width="390" alt="🦑" src="https://github-profile-trophy.vercel.app/?username=Durgesh3805&theme=darkhub&row=1&no-frame=true&margin-w=15">](#)
 
 ---
 
+### 📚 **Pinned Repositories**
+- 🚀 [CareerTech](https://github.com/Inno-Yatra/CareerTech-Platform) – AI-powered job platform  
+- 🔥 [IoT-Heart-Prediction](https://github.com/Durgesh3805/IoT-Heart-Prediction) – Wearable IoT for heart disease prediction  
+- 🎯 [Spirulina-Energy-Bar](https://github.com/Durgesh3805/Spirulina-Energy-Bar) – Nutrition-focused startup project  
+
+---
+
+### 🎯 **Achievements**
+- 🥇 **Tech Stack Mastery:** Full-stack development, AI, and IoT  
+- 💡 **Projects:** CareerTech, IoT wearable, and energy bar startup  
+- 🚀 **Research:** FinFET technology and heart disease prediction  
+
+---
+
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
