@@ -59,11 +59,6 @@ if it involves logic, systems, or automation… i’m in.
 
 ## 🚀 stuff i've built
 
-### mayonix — full stack freelance
-next.js + strapi + postgres  
-dashboards, caching, emails, responsive ui  
-basically a full product, not just a demo.
-
 ### drone truck delivery optimization
 fastapi + pyqt5  
 implemented **ALNS algorithm**  
